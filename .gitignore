@@ -1,4 +1,4 @@
-.idea/
-.classpath/
-.project/
-.org.*/
+.idea
+.classpath
+.project
+*.prefs
